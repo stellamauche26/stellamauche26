@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stellamauche26
 - 👀 I’m interested in AI and Machine Learning.
 - 🌱 I’m currently learning Machine Learning algorithms
-- 💞️ I’m looking to collaborate on with other software developers to learn python programming language for AI and Machine learning
+- 💞️ I’m looking to collaborate with other software developers to learn python programming language for AI and Machine learning
 - 📫 How to reach me www. github.com/Stells.com
 
 <!---
